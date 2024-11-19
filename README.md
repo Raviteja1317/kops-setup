@@ -53,6 +53,8 @@ kubectl version --client --output=yaml
 
 kops version
 
+![Screenshot 2024-11-19 221241](https://github.com/user-attachments/assets/97422a05-c5d3-4637-93ec-f282aba01fe7)
+
 aws s3api create-bucket --bucket ravi2024.local --region us-east-1
 
 aws s3api put-bucket-versionning --bucket ravi2024.local --region us-east-1 --versioning-configuration Status=Enabled
