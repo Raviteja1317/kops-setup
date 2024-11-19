@@ -36,6 +36,8 @@ chmod +x kops-linux-amd64
 ll
 
 mv kops-linux-amd64 /usr/local/bin/kops
+![Screenshot 2024-11-19 212746](https://github.com/user-attachments/assets/04f370ad-7d9e-429b-a83b-92a2be7246e4)
+
 
 mv kubectl /usr/local/bin/kubectl
 
