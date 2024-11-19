@@ -76,3 +76,6 @@ kubectl get nodes
 
 
 	Amazon wed services Aws installed. After see the aws configure and create the IAM user give access keys ,secret keys,region,ouputformat.
+
+![Screenshot 2024-11-19 232744](https://github.com/user-attachments/assets/02097b44-dc49-4818-a4a0-256660ace8df)
+
