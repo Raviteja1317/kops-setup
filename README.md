@@ -81,4 +81,7 @@ kubectl get nodes
 
 ![Screenshot 2024-11-19 233513](https://github.com/user-attachments/assets/f2c9c88c-5ac6-4678-8548-7cffa767a319)
 
+![Screenshot 2024-11-19 234801](https://github.com/user-attachments/assets/6979357c-47c0-4987-a3d4-698c12bb784d)
+
+
 
