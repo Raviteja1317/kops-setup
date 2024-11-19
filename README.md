@@ -9,8 +9,6 @@ apt update -y
 apt install curl wget apt-transport-https -y
 
 curl -fsSL http://get.docker.com -o get-docker.sh
-![Screenshot 2024-11-19 205158](https://github.com/user-attachments/assets/ee9c5586-aa92-4988-96b9-c83015d431e5)
-
 
 ll
 
@@ -21,6 +19,7 @@ systemctl status docker
 sh get-docker.sh
 
 sudo curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+![Screenshot 2024-11-19 205158](https://github.com/user-attachments/assets/ee9c5586-aa92-4988-96b9-c83015d431e5)
 
 ll
 
