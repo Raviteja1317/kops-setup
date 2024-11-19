@@ -61,6 +61,9 @@ aws s3api put-bucket-versionning --bucket ravi2024.local --region us-east-1 --ve
 
 export kpos_state_store=s3://ravi2024.local
 
+![Screenshot 2024-11-19 223139](https://github.com/user-attachments/assets/e11987eb-c709-4835-ac19-0d83c416bfa1)
+
+
 shh-keygen
 
 ll
