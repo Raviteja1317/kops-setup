@@ -53,7 +53,7 @@ kubectl version --client --output=yaml
 ![Screenshot 2024-11-19 220058](https://github.com/user-attachments/assets/bfee0d5d-2fec-4413-b813-4075503648d6)
 
 
-kops version
+**kops version**
 
 ![Screenshot 2024-11-19 221241](https://github.com/user-attachments/assets/97422a05-c5d3-4637-93ec-f282aba01fe7)
 
@@ -77,7 +77,7 @@ kops update cluster --name example.k8s.local --yes --admin --state=s3://ravi2024
 kubectl get nodes
 
 
-	Amazon wed services Aws installed. After see the aws configure and create the IAM user give access keys ,secret keys,region,ouputformat.
+**	Amazon wed services Aws installed. After see the aws configure and create the IAM user give access keys ,secret keys,region,ouputformat.**
 
 ![Screenshot 2024-11-19 232744](https://github.com/user-attachments/assets/02097b44-dc49-4818-a4a0-256660ace8df)
 
