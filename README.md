@@ -1,4 +1,6 @@
 # kops-setup
+
+first of all create one ec2 instance
 ![Screenshot 2024-11-19 204239](https://github.com/user-attachments/assets/989d9ddb-5da9-4a58-8c88-50cf1e20827d)
 
 
